@@ -1,0 +1,5 @@
+robotframework==5.0.1
+robotframework-seleniumlibrary==6.0.0
+robotframework-requests==0.9.3
+webdrivermanager==0.10.0
+openpyxl==3.0.10

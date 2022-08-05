@@ -1,0 +1,17 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Automation_Task" type="RobotFramework" factoryName="RobotFramework">
+    <option name="target" value="C:\Users\kamal\PycharmProjects\Automation_Task\Tests" />
+    <option name="args">
+      <list>
+        <option value="--argumentfile" />
+        <option value="Arguments.robot" />
+      </list>
+    </option>
+    <option name="env">
+      <map />
+    </option>
+    <option name="workingDir" value="C:\Users\kamal\PycharmProjects\Automation_Task" />
+    <option name="makeSuite" value="true" />
+    <method v="2" />
+  </configuration>
+</component>

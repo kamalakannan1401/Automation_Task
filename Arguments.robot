@@ -1,0 +1,5 @@
+--pythonpath .\Libraries
+--listener ExcelLibrary
+--outputdir .\Results
+--timestampoutputs
+--name Automation Task
